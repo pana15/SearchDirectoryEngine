@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TNX.CacheManager.Local</name>
+    </assembly>
+    <members>
+        <member name="T:System.CacheManager">
+            <summary>
+            Helps using the System.Runtime.Caching.MemoryCache class
+            A Dispose is called on cache expiration if a IDisposable object is being removed from cache
+            The module is thread safe
+            </summary>
+        </member>
+        <member name="P:System.CacheManager.EmitsDebugTrace">
+            <summary>
+            If enabled, an Information trace entry will'be written on every cache request
+            </summary>
+        </member>
+        <member name="M:System.CacheManager.GetOrDrillShort``1(System.Func{``0},System.String,System.Object[])">
+            <summary>
+            1 minute cache
+            Returns the cached value or drill the cache with your Func and than returns the new value
+            </summary>
+        </member>
+        <member name="M:System.CacheManager.GetOrDrillLong``1(System.Func{``0},System.String,System.Object[])">
+            <summary>
+            30 minute cache
+            Returns the cached value or drill the cache with your Func and than returns the new value
+            </summary>
+        </member>
+        <member name="M:System.CacheManager.GetOrDrillShortSliding``1(System.Func{``0},System.String,System.Object[])">
+            <summary>
+            1 minute cache
+            Returns the cached value or drill the cache with your Func and than returns the new value
+            Sliding expiration
+            </summary>
+        </member>
+        <member name="M:System.CacheManager.GetOrDrillLongSliding``1(System.Func{``0},System.String,System.Object[])">
+            <summary>
+            30 minute cache
+            Returns the cached value or drill the cache with your Func and than returns the new value
+            Sliding expiration
+            </summary>
+        </member>
+        <member name="M:System.CacheManager.GetOrDrill24Hours``1(System.Func{``0},System.String,System.Object[])">
+            <summary>
+            24 hours cache
+            Returns the cached value or drill the cache with your Func and than returns the new value
+            </summary>
+        </member>
+    </members>
+</doc>
