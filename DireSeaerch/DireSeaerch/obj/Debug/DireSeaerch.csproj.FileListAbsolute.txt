@@ -1,0 +1,10 @@
+c:\users\pnu\source\repos\DireSeaerch\DireSeaerch\bin\Debug\DireSeaerch.exe.config
+c:\users\pnu\source\repos\DireSeaerch\DireSeaerch\bin\Debug\DireSeaerch.exe
+c:\users\pnu\source\repos\DireSeaerch\DireSeaerch\bin\Debug\DireSeaerch.pdb
+c:\users\pnu\source\repos\DireSeaerch\DireSeaerch\bin\Debug\System.Runtime.Caching.dll
+c:\users\pnu\source\repos\DireSeaerch\DireSeaerch\bin\Debug\TNX.CacheManager.Local.dll
+c:\users\pnu\source\repos\DireSeaerch\DireSeaerch\obj\Debug\DireSeaerch.csprojResolveAssemblyReference.cache
+c:\users\pnu\source\repos\DireSeaerch\DireSeaerch\obj\Debug\DireSeaerch.csproj.CoreCompileInputs.cache
+c:\users\pnu\source\repos\DireSeaerch\DireSeaerch\obj\Debug\DireSeaerch.csproj.CopyComplete
+c:\users\pnu\source\repos\DireSeaerch\DireSeaerch\obj\Debug\DireSeaerch.exe
+c:\users\pnu\source\repos\DireSeaerch\DireSeaerch\obj\Debug\DireSeaerch.pdb
